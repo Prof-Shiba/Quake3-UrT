@@ -67,3 +67,5 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+/.vs/Quake3-UrT.slnx
+/Quake3-UrT/framework.h
